@@ -1,10 +1,5 @@
-/*
-This code records the temperature through testing the mV put out by the sensor.
-It records in both Celcius and Fahrenheit. 
-It can only detect from -40 degrees C to 125 degrees C or -40 degrees F 
-to 257 degrees F
-The Humidity is simulated by a potentiometer by being mapped into percentages
-*/
+/* This code records the temperature through testing the mV put out by the sensor.It records in both Celcius and Fahrenheit. It can only detect from -40 degrees C to 125 degrees C or -40 degrees F to 257 degrees F
+The Humidity is simulated by a potentiometer by being mapped into percentages */
 
 const int analogIn = A0;
 int humiditysensorOutput = 0;
