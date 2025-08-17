@@ -2,10 +2,11 @@
 
 Monitoring Temperature and Humidity using DHT sensor 
 Hardware: 
-S.No  Component Name 
-1.    Arduino Uno 
-2.    DHT sensor 
-3.    Resistors 
+
+S.No   Component Name 
+1.     Arduino Uno 
+2.     DHT sensor 
+3.     Resistors 
 Software: Arduino IDE 
 
 Setup:
