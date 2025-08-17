@@ -1,6 +1,5 @@
 const int analogIn = A0;
 int humiditysensorOutput = 0;
-// Defining Variables
 int RawValue= 0;
 double Voltage = 0;
 double tempC = 0;
